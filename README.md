@@ -2,7 +2,7 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
-## About
+## Hello there 🙋
 Hello my name is Carlos, I am a software developer based in Canada, with enthusiasm in ai.
 
 I monstly focus on software architecture and AI stuff.
